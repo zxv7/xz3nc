@@ -14,8 +14,8 @@
 username="nc-ubuntu"
 hostname="nc-esv1.9.3-prd"
 password="ev7I&817ut1bdO00fyeqp017#k@713seda9aLpOO91az"
-email_account="zech013@protonmail.com"
-domain_name_private_ip_add="179.177.173.250, 2601:196:17f:6754:e65f:1ff:fe67:69d3"
+email_account="username@examplemail.com"
+domain_name_private_ip_add="19.17.13.1, ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff"
 nc_type="private"
 ###
 
