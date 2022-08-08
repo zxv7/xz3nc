@@ -11,11 +11,11 @@
 #    nextcloud_type [ "private" , "public" ]
 
 ### Please fill out below variables 
-username="nc-ubuntu"
-hostname="nc-esv1.9.3-prd"
-password="ev7I&817ut1bdO00fyeqp017#k@713seda9aLpOO91az"
+username="XXXXXXX"
+hostname="XXXXXXXXXX"
+password="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 email_account="username@examplemail.com"
-domain_name_private_ip_add="19.17.13.1, ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff"
+domain_name_private_ip_add="0.0.0.0 ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff"
 nc_type="private"
 ###
 
